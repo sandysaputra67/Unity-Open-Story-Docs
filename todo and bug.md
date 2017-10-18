@@ -12,6 +12,8 @@ load story wont change story name.
 baloon and camera size and arent reset after editting (on empty phase).
 need transition at start of the phase to set up the player
 cant accept other image file
-phase content weirdly scaled on unity 5.50f3 windows
-file manager wont work as well
-add instantiate third paramter to false
+
+---
+phase content weirdly scaled on unity 5.50f3 windows file manager wont work as well
+Fix : add instantiate third parameter to false
+---
