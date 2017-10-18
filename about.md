@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is a website for documentation and tutorial about Unity3D Open Stories Project.
+This website was created to store documentation and tutorials for the Unity3D Open Story project.
 
-Unity3D Open Stories is a system/ framework that help developer to create story system in unity3D faster and easier. This project was originally created as a part time job assignment, but are open to everyone to use and modify in hope of contribution and feedback from everyone to make it better.
+Unity3D Open Story is a framework or system that helps developer create story systems in unity3D by making it faster and easier. 
+This project was originally created as a part time job assignment, but is now open for everyone to use and modify with the hope that contributions and feedback from everyone will make it better.
 
-You can find out more info about this project from [project github page](https://github.com/as3mbus/Dialogue-and-Story-Unity)
+You can find out more info about this project on the [project GitHub page](https://github.com/as3mbus/Dialogue-and-Story-Unity)
 
-please consider contributing to this project so it would become better for other people in the future
+Please consider contributing to this project so it will become better for other people in the future.
