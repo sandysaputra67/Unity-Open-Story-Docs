@@ -4,8 +4,12 @@ title:  "Welcome"
 date:   2017-10-15 00:00:00 +0700
 categories: jekyll update
 ---
-Hello everyone, and welcome to `Unity3D Open Story` project page. This page is created in order to give publicity to this project, help user with tutorial to use this project, help developer to documentate the change, and guide everyone who want to contribute. 
+Hello everyone, and welcome to the `Unity3D Open Story` project page.
 
-I'm actually still new with jekyll and not really good at english, so if there anything that i can do to make this page looks better please dont be shy and help me out by sending up pull request or issue at the [Project github][project-github]. Any of your contribution would help me and this project very-very much, thank you.
+This page was created in order to give publicity to this project, help users with tutorial to get familiar with the project, help developers to document the changes, and guide everyone who wants to contribute.
 
-[project-github]: https://github.com/as3mbus/Dialogue-and-Story-Unity
+I’m actually still new to Jekyll and not really good at English, so if there is anything that I can do to make this page looks better please do not be shy and help me out by sending up pull request or issue on the [Project GitHub][docs-project-github].
+
+Any of your contribution would help me and this project very-very much, thank you.
+
+[docs-project-github]: https://github.com/as3mbus/Unity-Open-Story-Docs
