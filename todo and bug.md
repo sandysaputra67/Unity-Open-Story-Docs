@@ -10,8 +10,16 @@ clustered view
 loading first page on short term call show bad quality story 
 load story wont change story name.
 baloon and camera size and arent reset after editting (on empty phase).
-need transition at start of the phase to set up the player
+---
+need fade transition at start of the phase to set up the player
+fixed with adding image load at read line
+---
 cant accept other image file
+---
+camera positioning on first line is messed up(probably because of loading resources)
+fixed by changing "move toward" into lerp
+---
+newline load from previous state.
 
 ---
 phase content weirdly scaled on unity 5.50f3 windows file manager wont work as well

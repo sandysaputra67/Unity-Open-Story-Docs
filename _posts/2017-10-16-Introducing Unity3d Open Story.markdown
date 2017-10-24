@@ -14,6 +14,8 @@ One can easily modify the story player's looks by changing the image inside the 
 
 In order to play a story, you will need to create a story that can be read first. Creating a story is simplified by using the story creator example scene that is included within the project. This scene is used to create and edit stories that can then be played by the player scene. Use the story creator scene to create stories that you want by using every tool that is available.
 
+![story creator gif]({{ "/assets/introduction/Player.gif" | absolute_url }})
+
 After you finish creating the story you can try to play it and to check how the story will be shown. If there is some stuff that bothers you, you can easily change it.
 
 After you are done and sure about how the story will look, you can save the story data into the JSON file format. This JSON format will be used in the story player scene to read the playable story that you have created.
