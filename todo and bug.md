@@ -2,6 +2,11 @@ todo :
 editor script instead of player
 tutorial on v1.0
 adding sprite object to player
+scroll setting on phase editor
+skip button on creator
+start on current page and current pos
+duration with number input
+disable camera script on canvas component
 
 
 Bugs :
